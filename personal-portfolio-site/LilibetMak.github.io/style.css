@@ -1,0 +1,20 @@
+h1 {
+ font-size: 80px;
+ font-family: 'Poiret One', cursive;
+}
+
+h2 {
+    font-size: 60px;
+    font-family: 'Poiret One', cursive;
+}
+
+body {
+    background-image: url("clickclack2.jpg");
+}
+
+nav {
+    display: block;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
